@@ -1243,6 +1243,8 @@ p {
   border: 2px solid #00898E;
   border-radius: 10px;
   transition: background .3s;
+  margin-left: 5px;
+  margin-bottom: 5px;
 }
 .project:hover {
   background: #00898E;

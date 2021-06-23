@@ -103,7 +103,7 @@
                                         <p><span class="title-s">Name: </span> <span>Ori Shinsholker</span></p>
                                         <p><span class="title-s">Title: </span> <span>Cloud Devops Engineer</span></p>
                                         <p><span class="title-s">Email: </span> <span>oris1002@gmail.com</span></p>
-                                        <p><span class="title-s">Phone: </span> <span>(072) 502-68629</span></p>
+                                        <p><span class="title-s">Phone: </span> <span>(+972) 502-68629</span></p>
                                     </div>
                                 </div>
                             </div>
@@ -163,11 +163,6 @@
                                     > <a href="https://github.com/sholker" id="github">GitHub</a><br>
                                     > <a href="https://gitlab.com/oris1002" id="gitlub">GitLub</a><br>
                                     > <a href="https://github.com/sholker">Linkdin</a>
-                                </p>
-                                <p class="lead">
-                                    Nulla porttitor accumsan tincidunt. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-                                    Nulla porttitor accumsan
-                                    tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
                                 </p>
                             </div>
                         </div>
@@ -305,7 +300,7 @@
                                     </p>
                                     <ul class="list-ico">
                                         <li><span class="ion-ios-location"></span> Tel Aviv, Israel</li>
-                                        <li><span class="ion-ios-telephone"></span> (972) 502-628629</li>
+                                        <li><span class="ion-ios-telephone"></span> (+972) 502-628629</li>
                                         <li><span class="ion-email"></span> oris1002@gmail.com</li>
                                     </ul>
                                 </div>

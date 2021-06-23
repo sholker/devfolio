@@ -32,7 +32,7 @@ function get_projects()
 //$query = "insert into tbl_prods(name,img_url,cat_id) values ('$prodName','$prodImg','$catId')";
 
     $connection = db_connection();
-    $query = "SELECT * FROM `tbl_test_90`";
+    $query = "SELECT * FROM `tbl_user_90_project`";
 //    echo $query;
     $result = $mysqli -> query;
     $result = mysqli_query($connection, $query);
@@ -52,7 +52,7 @@ function get_projects()
         while ($row = $result->fetch_assoc()) {
             $format = 'popup%d';
             $id= sprintf($format, $i);
-            echo  '<a href="#' . $id . '" class="project col-md-4">' . $row['Name'] . '<img src="img/work-2.jpg" alt="" class="img-fluid"></a>' . '<div id="' . $id . '" class="popup">' . '<a href="#" class="close">&times;</a>' . '<h2>' . $row["Name"] . '</h2>' . '<p> About: <br>' . $row['Description'] . ' <br><a href="' . $row['url'] . '">click here to project</a></p></div><a href="#" class="close-popup"></a>';
+            echo  '<a href="#' . $id . '" class="project col-md-4">' . $row['Name'] . '<img src="img/' . $row["image"] . '"alt="" class="img-fluid"></a>' . '<div id="' . $id . '" class="popup">' . '<a href="#" class="close">&times;</a>' . '<h2>' . $row["Name"] . '</h2>' . '<p> About: <br>' . $row['Description'] . ' <br><a href="' . $row['url'] . '">click here to project</a></p></div><a href="#" class="close-popup"></a>';
 
                 $i+=1;
 
