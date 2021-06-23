@@ -247,7 +247,7 @@
                                     </h5>
                                 </div>
                                 <div>
-                                    <form action="" method="post" role="form" class="contactForm">
+                                    <form action="send_mail.php" method="post" role="form" class="contactForm">
                                         <div id="sendmessage">Your message has been sent. Thank you!</div>
                                         <div id="errormessage"></div>
                                         <div class="row">
