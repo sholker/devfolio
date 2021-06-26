@@ -109,39 +109,39 @@
                             </div>
                             <div class="skill-mf">
                                 <p class="title-s">Skill</p>
-                                <span>Python</span> <span class="pull-right">85%</span>
+                                <span>Python</span> <span class="pull-right">95%</span>
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="85" aria-valuemin="0"
+                                    <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="95" aria-valuemin="0"
                                          aria-valuemax="100"></div>
                                 </div>
                                 <span>AWS</span> <span class="pull-right">65%</span>
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
+                                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="65" aria-valuemin="0"
                                          aria-valuemax="100"></div>
                                 </div>
                                 <span>GCP</span> <span class="pull-right">70%</span>
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
+                                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="70" aria-valuemin="0"
                                          aria-valuemax="100"></div>
                                 </div>
-                                <span>Linux</span> <span class="pull-right">85%</span>
+                                <span>Linux</span> <span class="pull-right">98%</span>
                                 <div class="progress">
                                     <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
                                          aria-valuemax="100"></div>
                                 </div>
-                                <span>Ansible</span> <span class="pull-right">55%</span>
+                                <span>Ansible</span> <span class="pull-right">65%</span>
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
+                                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="65" aria-valuemin="0"
                                          aria-valuemax="100"></div>
                                 </div>
-                                <span>Git</span> <span class="pull-right">90%</span>
+                                <span>Git</span> <span class="pull-right">95%</span>
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0"
+                                    <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="95" aria-valuemin="0"
                                          aria-valuemax="100"></div>
                                 </div>
-                                <span>Kubernetes</span> <span class="pull-right">50%</span>
+                                <span>Kubernetes</span> <span class="pull-right">80%</span>
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
+                                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="80" aria-valuemin="0"
                                          aria-valuemax="100"></div>
                                 </div>
                             </div>
@@ -155,7 +155,7 @@
                                 </div>
                                 <p class="lead">
                                     DevOps Engineer with 4+ years of hands-on experience supporting, automating and optimizing mission critical DevOps processes.
-                                    Softwer Engineer Student at <a href="https://www.shenkar.ac.il/en/departments/engineering-software-department"> Shenkar College of Engineering and Design </a>
+                                    <br>I'm a student of software engineer at <a href="https://www.shenkar.ac.il/en/departments/engineering-software-department"> Shenkar College of Engineering and Design </a>
                                 </p>
                                 <p class="lead left_text">
                                     Link for:
