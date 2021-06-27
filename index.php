@@ -155,14 +155,14 @@
                                 </div>
                                 <p class="lead">
                                     DevOps Engineer with 4+ years of hands-on experience supporting, automating and optimizing mission critical DevOps processes.
-                                    <br>I'm a student of software engineer at <a href="https://www.shenkar.ac.il/en/departments/engineering-software-department"> Shenkar College of Engineering and Design </a>
+                                    <br>I'm a student of software engineer at <a href="https://www.shenkar.ac.il/en/departments/engineering-software-department"> Shenkar College of Engineering and Design <i class="fa fa-graduation-cap" aria-hidden="true"></i></a>
                                 </p>
                                 <p class="lead left_text">
                                     Link for:
                                     <br>
-                                    > <a href="https://github.com/sholker" id="github">GitHub</a><br>
-                                    > <a href="https://gitlab.com/oris1002" id="gitlub">GitLub</a><br>
-                                    > <a href="https://github.com/sholker">Linkdin</a>
+                                    > <a href="https://github.com/sholker" id="github"><i class="fa fa-github" aria-hidden="true"></i>  GitHub</a><br>
+                                    > <a href="https://gitlab.com/oris1002" id="gitlub"><i class="fa fa-gitlab" aria-hidden="true"></i> GitLub</a><br>
+                                    > <a href="https://github.com/sholker"><i class="fa fa-linkedin" aria-hidden="true"></i> Linkdin</a>
                                 </p>
                             </div>
                         </div>
@@ -290,9 +290,10 @@
                                 </div>
                                 <div class="more-info">
                                     <p class="lead">
-                                        Seeking for a Cloud devops engineer role. Open for full time job
-                                        <a href="document/Ori_Shinsholker_Resume.pdf" download>
-                                            Download My Resume
+                                        Seeking for a Cloud devops engineer role. Open for full time job.
+                                        I'm looking for a challenging job that combain new technologies.
+                                        <br><a href="document/Ori_Shinsholker_Resume.pdf" download>
+                                            <i class="fa fa-download" aria-hidden="true"></i> Download My Resume
                                         </a>
                                     </p>
                                     <ul class="list-ico">

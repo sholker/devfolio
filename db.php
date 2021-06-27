@@ -52,7 +52,7 @@ function get_projects()
         while ($row = $result->fetch_assoc()) {
             $format = 'popup%d';
             $id= sprintf($format, $i);
-            echo  '<a href="#' . $id . '" class="project col-md-4">' . $row['Name'] . '<img src="img/' . $row["image"] . '"alt="" class="img-fluid"></a>' . '<div id="' . $id . '" class="popup">' . '<a href="#work" class="close">&times;</a>' . '<h2>' . $row["Name"] . '</h2>' . '<p> About: <br>' . $row['Description'] . ' <br><a href="' . $row['url'] . '" target="_blank" rel="noopener noreferrer">click here to project</a></p></div><a href="#work" class="close-popup"></a>';
+            echo  '<a href="#' . $id . '" class="project col-md-4 my-col">' . $row['Name'] . '<img src="img/' . $row["image"] . '"alt="" class="img-fluid"></a>' . '<div id="' . $id . '" class="popup">' . '<a href="#work" class="close">&times;</a>' . '<h2>' . $row["Name"] . '</h2>' . '<p> About: <br>' . $row['Description'] . ' <br><a href="' . $row['url'] . '" target="_blank" rel="noopener noreferrer">click here to project</a></p></div><a href="#work" class="close-popup"></a>';
 
                 $i+=1;
 

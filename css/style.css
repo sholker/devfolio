@@ -3,6 +3,7 @@
   Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
   Author: BootstrapMade.com
   License: https://bootstrapmade.com/license/
+  LKDKDLSKLSKFMRLK ORi is the queen
 */
 
 /*======================================
@@ -356,6 +357,30 @@ a:hover {
   padding-top: 12px;
   color: #fff;
 }
+
+element.style {
+}
+@media (min-width: 1200px)
+  .project {
+    display: inline-block;
+    padding: 5px 10px;
+    border: 2px solid #00898E;
+    border-radius: 10px;
+    transition: background .3s;
+  }
+  .project {
+    display: inline-block;
+    padding: 10px 20px;
+    border: 2px solid #00898E;
+    border-radius: 10px;
+    transition: background .3s;
+    margin-left: 5px;
+    margin-bottom: 5px;
+  }
+
+.my-col {
+    max-width: 30.333333% !important;
+  }
 
 /* Prelaoder */
 
