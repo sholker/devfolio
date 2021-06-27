@@ -360,27 +360,27 @@ a:hover {
 
 element.style {
 }
-@media (min-width: 1200px)
-  .project {
-    display: inline-block;
-    padding: 5px 10px;
-    border: 2px solid #00898E;
-    border-radius: 10px;
-    transition: background .3s;
-  }
-  .project {
-    display: inline-block;
-    padding: 10px 20px;
-    border: 2px solid #00898E;
-    border-radius: 10px;
-    transition: background .3s;
-    margin-left: 5px;
-    margin-bottom: 5px;
-  }
+
+.project {
+  display: inline-block;
+  padding: 5px 10px;
+  border: 2px solid #00898E;
+  border-radius: 10px;
+  transition: background .3s;
+}
+.project {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 2px solid #00898E;
+  border-radius: 10px;
+  transition: background .3s;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
 
 .my-col {
-    max-width: 30.333333% !important;
-  }
+  max-width: 30.333333% !important;
+}
 
 /* Prelaoder */
 
@@ -1361,6 +1361,7 @@ p {
     margin-top: 3rem;
     padding-left: 0rem;
   }
+
 
   .card-blog {
     margin-bottom: 3rem;

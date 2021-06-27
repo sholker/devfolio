@@ -290,8 +290,9 @@
                                 </div>
                                 <div class="more-info">
                                     <p class="lead">
-                                        Seeking for a Cloud devops engineer role. Open for full time job.
-                                        I'm looking for a challenging job that combain new technologies.
+                                        Seeking for a Cloud devops engineer role is challenging job
+                                        that combain new technologies.
+                                        Open for full time job.
                                         <br><a href="document/Ori_Shinsholker_Resume.pdf" download>
                                             <i class="fa fa-download" aria-hidden="true"></i> Download My Resume
                                         </a>
