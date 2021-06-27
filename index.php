@@ -323,6 +323,7 @@
                 <div class="col-sm-12">
                     <div class="copyright-box">
                         <p class="copyright">&copy; Copyright <strong>Ori Shinholker</strong>. All Rights Reserved</p>
+                        <a href="https://www.shenkar.ac.il/en/departments/engineering-software-department"><i class="fa fa-graduation-cap" aria-hidden="true"></i> First degree software engineering at Shenkar</a>
                     </div>
                 </div>
             </div>
