@@ -323,7 +323,7 @@
                 <div class="col-sm-12">
                     <div class="copyright-box">
                         <p class="copyright">&copy; Copyright <strong>Ori Shinholker</strong>. Template by <a href="https://bootstrapmade.com/">Bootstrapmade</a> All Rights Reserved</p>
-                        <a href="https://www.shenkar.ac.il/en/departments/engineering-software-department"><i class="fa fa-graduation-cap" aria-hidden="true"></i> תואר ראשון בהנדסת תוכנה בשנקר</a>
+                        <a href="https://www.shenkar.ac.il/en/departments/engineering-software-department">תואר ראשון בהנדסת תוכנה בשנקר <i class="fa fa-graduation-cap" aria-hidden="true"></i> </a>
                     </div>
                 </div>
             </div>
