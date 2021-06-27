@@ -183,7 +183,7 @@
                         Experience
                     </h3>
                     <p class="subtitle-a">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                        4+ years of experience devops
                     </p>
                     <div class="line-mf"></div>
                 </div>
@@ -211,7 +211,7 @@
                         Portfolio
                     </h3>
                     <p class="subtitle-a">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                        Shenkar projects
                     </p>
                     <div class="line-mf"></div>
                 </div>
@@ -285,15 +285,12 @@
                             <div class="col-md-6">
                                 <div class="title-box-2 pt-4 pt-md-0">
                                     <h5 class="title-left">
-                                        Get in Touch
+                                        What am I looking for?
                                     </h5>
                                 </div>
                                 <div class="more-info">
                                     <p class="lead">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
-                                        expedita aperiam aliquid at.
-                                        Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
-                                        mollitia inventore?
+                                        Seeking for a Cloud devops engineer role. Open for full time job
                                         <a href="document/Ori_Shinsholker_Resume.pdf" download>
                                             Download My Resume
                                         </a>
@@ -324,15 +321,6 @@
                 <div class="col-sm-12">
                     <div class="copyright-box">
                         <p class="copyright">&copy; Copyright <strong>Ori Shinholker</strong>. All Rights Reserved</p>
-                        <!--              <div class="credits">-->
-                        <!--                &lt;!&ndash;-->
-                        <!--                  All the links in the footer should remain intact.-->
-                        <!--                  You can delete the links only if you purchased the pro version.-->
-                        <!--                  Licensing information: https://bootstrapmade.com/license/-->
-                        <!--                  Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio-->
-                        <!--                &ndash;&gt;-->
-                        <!--                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>-->
-                        <!--              </div>-->
                     </div>
                 </div>
             </div>
