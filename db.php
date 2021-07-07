@@ -26,20 +26,23 @@ function get_projects()
         die("DB query failed.");
     }
 
-    $row = mysqli_fetch_assoc($result); // there is only 1 item with id=X
 
-    $i=1;
+    $i = 1;
     if ($result->num_rows > 0) {
 
         while ($row = $result->fetch_assoc()) {
             $format = 'popup%d';
-            $id= sprintf($format, $i);
-            echo  '<a href="#' . $id . '" class="project col-md-4 my-col">' . $row['Name'] . '<img src="img/' . $row["image"] . '"alt="" class="img-fluid"></a>' . '<div id="' . $id . '" class="popup">' . '<a href="#work" class="close">&times;</a>' . '<h2>' . $row["Name"] . '</h2>' . '<p> About: <br>' . $row['Description'] . ' <br><a href="' . $row['url'] . '" target="_blank" rel="noopener noreferrer">click here to project</a></p></div><a href="#work" class="close-popup"></a>';
+            $id = sprintf($format, $i);
+            echo '<a href="#' . $id . '" class="project col-md-4 my-col">' . $row['Name'] . '<img src="img/' . $row["image"] . '"alt="" class="img-fluid"></a>' . '<div id="' . $id . '" class="popup">' . '<a href="#work" class="close">&times;</a>' . '<h2>' . $row["Name"] . '</h2>' . '<p> About: <br>' . $row['Description'] . ' <br><a href="' . $row['url'] . '" target="_blank" rel="noopener noreferrer">click here to project</a></p></div><a href="#work" class="close-popup"></a>';
 
-                $i+=1;
+            $i += 1;
 
+
+        }
+    }
     mysqli_close();
 }
+
 
 function get_experience()
 {
@@ -64,7 +67,6 @@ function get_experience()
         die("DB query failed.");
     }
 
-    $row = mysqli_fetch_assoc($result); // there is only 1 item with id=X
 
     $i=1;
     if ($result->num_rows > 0) {
