@@ -155,7 +155,7 @@
                                 </div>
                                 <p class="lead">
                                     DevOps Engineer with 4+ years of hands-on experience supporting, automating and optimizing mission critical DevOps processes.
-                                    <br>I'm a student of software engineer at <a href="https://www.shenkar.ac.il/en/departments/engineering-software-department"> Shenkar College of Engineering and Design <i class="fa fa-graduation-cap" aria-hidden="true"></i></a>
+                                    <br>I'm a student of software engineer at <a href="https://www.shenkar.ac.il/en/departments/engineering-software-department" target="_blank"> Shenkar College of Engineering and Design <i class="fa fa-graduation-cap" aria-hidden="true"></i></a>
                                 </p>
                                 <p class="lead left_text">
                                     Link for:
@@ -323,7 +323,7 @@
                 <div class="col-sm-12">
                     <div class="copyright-box">
                         <p class="copyright">&copy; Copyright <strong>Ori Shinholker</strong>. Template by <a href="https://bootstrapmade.com/">Bootstrapmade</a> All Rights Reserved</p>
-                        <a href="https://www.shenkar.ac.il/en/departments/engineering-software-department">תואר ראשון בהנדסת תוכנה בשנקר <i class="fa fa-graduation-cap" aria-hidden="true"></i> </a>
+                        <a href="https://www.shenkar.ac.il/en/departments/engineering-software-department" target="_blank">תואר ראשון בהנדסת תוכנה בשנקר <i class="fa fa-graduation-cap" aria-hidden="true"></i> </a>
                     </div>
                 </div>
             </div>

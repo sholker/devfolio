@@ -16,25 +16,10 @@ function db_connection(){
 }
 function get_projects()
 {
-////create a mySQL DB connection:
-//    $dbhost = "182.50.133.173";
-//    $dbuser = "studDB21a";
-//    $dbpass = "stud21DB1!";
-//    $dbname = "studDB21a";
-//    $connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
-//
-//// testing connection success
-//    if (mysqli_connect_errno()) {
-//        die("DB connection failed: " . mysqli_connect_error() . " (" . mysqli_connect_errno() . ")");
-//    }
-
-
-//$query = "insert into tbl_prods(name,img_url,cat_id) values ('$prodName','$prodImg','$catId')";
 
     $connection = db_connection();
     $query = "SELECT * FROM `tbl_user_90_project`";
-//    echo $query;
-    $result = $mysqli -> query;
+
     $result = mysqli_query($connection, $query);
 
     if (!$result) {
@@ -43,11 +28,8 @@ function get_projects()
 
     $row = mysqli_fetch_assoc($result); // there is only 1 item with id=X
 
-    $result = $connection->query($query);
     $i=1;
     if ($result->num_rows > 0) {
-// output data of each row
-
 
         while ($row = $result->fetch_assoc()) {
             $format = 'popup%d';
@@ -56,10 +38,7 @@ function get_projects()
 
                 $i+=1;
 
-//            echo "<p>  - Name: " . $row["Name"] . " " . $row["Desciption"] . "</p><br>";
-        }
-    }
-//    mysqli_close();
+    mysqli_close();
 }
 
 function get_experience()
@@ -76,12 +55,9 @@ function get_experience()
         die("DB connection failed: " . mysqli_connect_error() . " (" . mysqli_connect_errno() . ")");
     }
 
-//$query = "insert into tbl_prods(name,img_url,cat_id) values ('$prodName','$prodImg','$catId')";
 
     $connection = db_connection();
     $query = "SELECT * FROM  tbl_user_90_experience";
-//    echo $query;
-    $result = $mysqli -> query;
     $result = mysqli_query($connection, $query);
 
     if (!$result) {
@@ -90,7 +66,6 @@ function get_experience()
 
     $row = mysqli_fetch_assoc($result); // there is only 1 item with id=X
 
-    $result = $connection->query($query);
     $i=1;
     if ($result->num_rows > 0) {
 // output data of each row
